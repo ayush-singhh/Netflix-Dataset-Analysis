@@ -62,15 +62,6 @@ The analysis answers several key business questions including:
 - Duration analysis
 - Content sorting and filtering capabilities
 
-## Key Features
-
-- Data visualization using bar graphs for content distribution
-- Filtering capabilities for specific years, countries, and categories
-- Analysis of content ratings across different regions
-- Director and cast member analysis
-- Duration analysis of content
-- Country-wise content distribution analysis
-
 ## Results Highlights
 
 - Identified peak years for content release
